@@ -86,7 +86,7 @@ Fitness = |Covered Elements| - 5 * |Uncovered Elements| - 0.5 * |Subsets Used|
 
 ## 🙌 Acknowledgments
 
-Developed by Trisha Reddy and Amrita Pochiraju as part of academic coursework.
+Developed by Trisha Reddy as part of academic coursework.
 
 ---
 
